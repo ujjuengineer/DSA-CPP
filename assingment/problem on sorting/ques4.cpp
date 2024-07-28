@@ -1,0 +1,1 @@
+// find the minimum operations required to sort the array in increasing order. in one operation, you can set each occurrence of one element to 0
